@@ -2,7 +2,7 @@
 Fecha: 2024-02-29
 tags:
   - til
-  - dotfiles
+  - "#terminal"
 share: "true"
 ---
 # Cómo conseguir una terminal minimalista
