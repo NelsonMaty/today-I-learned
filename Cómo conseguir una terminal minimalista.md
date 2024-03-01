@@ -5,7 +5,15 @@ tags:
   - dotfiles
 share: "true"
 ---
-Para ocultar el titulo de la ventana de una terminal `kitty`, se necesita modificar el archivo su archivo de configuración (normalmente ubicado en `~/.config/kitty/kitty.conf`) y agregar la siguiente línea:
+# Cómo conseguir una terminal minimalista
+
+## Problema
+
+No utilizo los botones de maximizar/minimizar/cerrar de mi terminal `kitty`.
+
+## Solución
+
+Para ocultar la barra del título de una terminal `kitty`, se necesita modificar el archivo su archivo de configuración (normalmente ubicado en `~/.config/kitty/kitty.conf`) y agregar la siguiente línea:
 
 ```
 hide_window_decorations titlebar-and-corners
@@ -21,4 +29,4 @@ window_margin_width 2
 
 Así es como se ve con los cambios aplicados:
 
-![[Pasted image 20240301003518.png|Pasted image 20240301003518.png]]
+![[./Pasted image 20240301003518.png|Pasted image 20240301003518]]
