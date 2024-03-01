@@ -26,7 +26,3 @@ Para nivelar el margen, agregar la siguiente linea al archivo kitty.conf:
 ```
 window_margin_width 2 
 ```
-
-Así es como se ve con los cambios aplicados:
-
-![[./Pasted image 20240301003518.png|Pasted image 20240301003518]]
