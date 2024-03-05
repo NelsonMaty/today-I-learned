@@ -2,6 +2,7 @@
 Fecha: 2024-03-04
 tags:
   - til
+  - "#git"
 share: "true"
 ---
 # Cómo ir y volver de una rama rápidamente en git 
